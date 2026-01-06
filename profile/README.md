@@ -17,7 +17,7 @@ Context is a news analytics & intelligence platform that turns raw reporting int
 ## Architecture
 
 ```mermaid
-flowchart TD
+graph TD
     NP[News Pipeline]
     GDP[Global Data Pipeline]
     FP[Financials Pipeline]
