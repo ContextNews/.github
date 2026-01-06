@@ -1,6 +1,6 @@
 # Context
 
-Context is a news analytics & intelligence platform that turns raw reporting into evolving, data-backed event timelines.
+Context is a news analytics platform that turns raw reporting into evolving, data-backed event timelines.
 
 ## Components
 
