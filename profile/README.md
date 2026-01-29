@@ -2,7 +2,7 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/site-live-brightgreen" />
-  <img src="https://img.shields.io/endpoint?url=https%3A%2F%2Fcontext-dev-api-alb-1959489086.eu-west-2.elb.amazonaws.com%2Fhealth%2Fbadge" />
+  <img src="https://img.shields.io/endpoint?url=https://d1j7fhf5s3t3r4.cloudfront.net/api/health/badge" />
 </p>
 
 <p align="center">
