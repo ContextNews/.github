@@ -2,7 +2,7 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/site-live-brightgreen" />
-  <img src="https://img.shields.io/endpoint?url=https://d1j7fhf5s3t3r4.cloudfront.net/api/health/badge" />
+  <img src="https://img.shields.io/endpoint?url=https://d1j7fhf5s3t3r4.cloudfront.net/api/admin/status/badge" />
 </p>
 
 <p align="center">
