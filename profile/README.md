@@ -20,4 +20,4 @@
 Context is a platform that aggregates news articles from multiple sources into structured stories and enriches them with relevant data for broader context.
 
 **Web-App (Dev Deployment)**:
-https://d1j7fhf5s3t3r4.cloudfront.net/news
+https://d1j7fhf5s3t3r4.cloudfront.net/
