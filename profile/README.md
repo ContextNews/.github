@@ -1,8 +1,8 @@
 # Context
 
 <p align="center">
-  <img src="https://img.shields.io/website?url=https%3A%2F%2Fcontext-api-production.up.railway.app%2Fhealth&label=API" />
-  <img src="https://img.shields.io/website?url=https%3A%2F%2Fcontext-web-app-production.up.railway.app&label=Web+App" />
+  <img src="https://img.shields.io/website?url=https%3A%2F%2Fcontext-api-production.up.railway.app%2Fadmin%2Fstatus&label=API&up_message=Online&down_message=Offline" />
+  <img src="https://img.shields.io/website?url=https%3A%2F%2Fcontext-web-app-production.up.railway.app&label=Web+App&up_message=Online&down_message=Offline" />
   <a href="https://github.com/ContextNews/news-pipeline/actions/workflows/run_pipeline.yaml">
     <img src="https://github.com/ContextNews/news-pipeline/actions/workflows/run_pipeline.yaml/badge.svg?branch=main" alt="Pipeline" />
   </a>
