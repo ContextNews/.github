@@ -8,6 +8,30 @@
   </a>
 </p>
 
-Context is a platform that aggregates news articles from multiple sources into structured stories and enriches them with relevant data for broader context.
+Context is a news analytics and intelligence platform that aggregates news articles from multiple sources into structured stories and enriches them with relevant data for broader context.
 
-[Web App](https://context-web-app-production.up.railway.app/) · [API](https://context-api-production.up.railway.app/docs) · [Hugging Face](https://huggingface.co/ContextNews) · [Admin](https://context-api-production.up.railway.app/api/admin/db/login)
+<p align="center">
+  <a href="https://context-web-app-production.up.railway.app/">Web App</a> ·
+  <a href="https://context-api-production.up.railway.app/docs">API</a> ·
+  <a href="https://huggingface.co/ContextNews">Hugging Face</a> ·
+  <a href="https://context-api-production.up.railway.app/api/admin/db/login">Admin</a>
+</p>
+
+## Roadmap
+
+- [ ] International Statistics
+- [ ] Financial Market Data
+- [ ] Improved Story Clustering
+- [ ] Improved Story Structuring
+
+- [ ] Entity Relationship Mapping
+- [ ] Improved Intelligence Collection
+- [ ] Improved Context Linking
+- [ ] Improved Story Generation
+
+- [ ] Story/Article Tagging
+- [ ] Scale News Ingestion
+- [ ] User/Admin Account
+- [ ] Improved Data Retention
+
+- [ ] National Statistics
